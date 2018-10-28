@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Gstreamer"
-description: "Instructions on how to integrate Gstreamer into Home Assistant."
+title: "GStreamer"
+description: "Instructions on how to integrate GStreamer into Home Assistant."
 date: 2017-02-16 10:00
 sidebar: true
 comments: false
